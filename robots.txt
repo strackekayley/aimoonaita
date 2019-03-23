@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uxoosaiye.cheetahtemplate.org/sitemap.xml
